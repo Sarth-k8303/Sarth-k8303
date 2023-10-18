@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **c language**
 
+- 👀 I’m interested in **coding and hacking**.
+
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sarthak-sahu-8ab290290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/sarthak-sahu-8ab290290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 📫 How to reach me **sarthak8385@gmail.com**
